@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d170b2d2-671a-4196-a4da-b964abab5daa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/website/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +111,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="240" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1599999860362" />
+    <state x="453" y="175" width="450" height="385" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600005000408">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="453" y="175" width="450" height="385" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.743@0.0.1366.743" timestamp="1600005000408" />
     <state x="194" y="5" key="SettingsEditor" timestamp="1600002788355">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
