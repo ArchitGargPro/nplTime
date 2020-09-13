@@ -18,5 +18,5 @@ six>=1.15.0
 urllib3>=1.25.10
 virtualenv>=20.0.31
 virtualenv-clone>=0.5.4
-meson @ file:///buildstream/freedesktop-sdk/components/meson.bst
-Markdown @ file:///buildstream/freedesktop-sdk/components/python3-markdown.bst
+# meson @ file:///buildstream/freedesktop-sdk/components/meson.bst
+# Markdown @ file:///buildstream/freedesktop-sdk/components/python3-markdown.bst
