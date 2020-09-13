@@ -40,9 +40,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="server" type="Python.DjangoServer" factoryName="Django server">
@@ -90,7 +91,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -102,9 +109,9 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="240" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1599999860362" />
-    <state x="194" y="5" key="SettingsEditor" timestamp="1600002356190">
+    <state x="194" y="5" key="SettingsEditor" timestamp="1600002788355">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="194" y="5" key="SettingsEditor/0.0.1366.743@0.0.1366.743" timestamp="1600002356190" />
+    <state x="194" y="5" key="SettingsEditor/0.0.1366.743@0.0.1366.743" timestamp="1600002788355" />
   </component>
 </project>
